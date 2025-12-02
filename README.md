@@ -286,10 +286,13 @@ This project is for educational purposes.
 
 ## 👤 Author
 
-Aditya Suresh Nair
+Robin Gaur
 
 ## 🙏 Acknowledgments
 
 - Supabase for backend infrastructure
 - Google Gemini for AI capabilities
 - React team for the amazing framework
+
+## 👉 Live Project (Vercel)
+https://internmanagements.vercel.app/
